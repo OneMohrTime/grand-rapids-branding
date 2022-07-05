@@ -111,6 +111,12 @@
     display: block;
     margin-top: 0;
   }
+  .footer-block.grid__item {
+    flex-grow: 0;
+  }
+  .footer-block.grid__item:nth-child(2) {
+    margin-right: auto;
+  }
 }
 
 .footer-block:empty {
