@@ -17,7 +17,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/classic-dad-hat-light-blue-right-front-628b0cd1ab127.webp",
         "image_2": "shopify:\/\/shop_images\/enhanced-matte-paper-poster-_in_-18x24-front-629cd8084f36f.jpg",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 40,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
