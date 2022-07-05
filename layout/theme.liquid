@@ -28,7 +28,7 @@
     {% endif %}
 
     {% render 'meta-tags' %}
-    
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-MTTBGH26HF"></script>
     <script>
@@ -221,6 +221,7 @@
   </head>
 
   <body class="gradient">
+  <div style="display:none;">git</div>
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ "accessibility.skip_to_text" | t }}
     </a>
@@ -277,7 +278,7 @@
             var pfEdt = {{ shop.metafields.printful.is_edt_enabled | json }};
             var pfEdtTextColor = {{ shop.metafields.printful.edt_text_color | json }};
             var pfEdtBackgroundColor = {{ shop.metafields.printful.edt_background_color | json }};
-            var pfEdtBorderColor = {{ shop.metafields.printful.edt_border_color | json }};  
+            var pfEdtBorderColor = {{ shop.metafields.printful.edt_border_color | json }};
             var pfEdtUseDefaultStyling = {{ shop.metafields.printful.edt_default_style | json }};
             var pfEdtTextAlignment = {{ shop.metafields.printful.edt_text_alignment | json }};
             var pfEdtFlags = {
