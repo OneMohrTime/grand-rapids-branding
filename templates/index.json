@@ -162,6 +162,7 @@
         "column-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/classic-dad-hat-light-blue-front-62c6f28ed7e60.jpg",
             "title": "About GR Branding",
             "text": "<p>Everything you might need to rep Grand Rapids on the top half of your body.<\/p>",
             "link_label": "Learn More",
@@ -171,8 +172,9 @@
         "column-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/kiss-cut-stickers-3x3-lifestyle-2-62c6f833c7e75.jpg",
             "title": "Get In Touch",
-            "text": "<p>Add an image of a product from your collection in this column.<\/p>",
+            "text": "<p>Send a message to Grand Rapids Branding Company<\/p>",
             "link_label": "Contact Us",
             "link": "shopify:\/\/pages\/contact"
           }
@@ -180,6 +182,7 @@
         "6fad01a0-7a65-463f-af00-f930a96013e4": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/classic-dad-hat-light-blue-front-62c6f28ed7f30.jpg",
             "title": "Sustainability",
             "text": "<p>Learn more about what \"dropship\" and \"direct to garment\" really is.<\/p>",
             "link_label": "More on Printful",
