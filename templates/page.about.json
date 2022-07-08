@@ -1,1 +1,133 @@
-{"sections":{"image-banner":{"type":"image-banner","blocks":{"01f3bc49-252c-4520-b12c-3de982ca076e":{"type":"heading","settings":{"heading":"About Grand Rapids Branding Co","heading_size":"h2"}}},"block_order":["01f3bc49-252c-4520-b12c-3de982ca076e"],"settings":{"image":"shopify:\/\/shop_images\/tshirt-zoom.jpg","image_overlay_opacity":0,"image_height":"small","adapt_height_first_image":false,"desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"main":{"type":"main-page","settings":{"padding_top":28,"padding_bottom":28}},"16519872446761cff0":{"type":"image-with-text","blocks":{"16519872441a93b8bf-0":{"type":"heading","settings":{"heading":"Grand Rapids","heading_size":"h1"}},"16519872441a93b8bf-1":{"type":"text","settings":{"text":"<p>All of the tops, bottoms, and accessories in-between, are themed around parts of the city. They are also print-on-demand, so we can fulfill your orders around the world in almost no time!<\/p>","text_style":"body"}},"16519872441a93b8bf-2":{"type":"button","settings":{"button_label":"View Shop","button_link":"shopify:\/\/collections"}}},"block_order":["16519872441a93b8bf-0","16519872441a93b8bf-1","16519872441a93b8bf-2"],"settings":{"image":"shopify:\/\/shop_images\/tshirt-zoom.jpg","height":"adapt","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-2","mobile_content_alignment":"left","padding_top":36,"padding_bottom":36}},"165198775588e170ca":{"type":"page","settings":{"page":"derek-mohr","heading_size":"h2","color_scheme":"background-1","padding_top":0,"padding_bottom":32}},"newsletter":{"type":"newsletter","blocks":{"heading":{"type":"heading","settings":{"heading":"Email Signup","heading_size":"h1"}},"paragraph":{"type":"paragraph","settings":{"text":"<p>Be the first to know about new collections and exclusive offers. There are coupons and sales announced here as well!<\/p>"}},"email-form":{"type":"email_form","settings":{}}},"block_order":["heading","paragraph","email-form"],"settings":{"color_scheme":"accent-1","full_width":true,"padding_top":40,"padding_bottom":40}}},"order":["image-banner","main","16519872446761cff0","165198775588e170ca","newsletter"]}
+{
+  "sections": {
+    "image-banner": {
+      "type": "image-banner",
+      "blocks": {
+        "01f3bc49-252c-4520-b12c-3de982ca076e": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Grand Rapids Branding Co",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "01f3bc49-252c-4520-b12c-3de982ca076e"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "16519872446761cff0": {
+      "type": "image-with-text",
+      "blocks": {
+        "16519872441a93b8bf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Grand Rapids",
+            "heading_size": "h1"
+          }
+        },
+        "16519872441a93b8bf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All of the tops, bottoms, and accessories in-between, are themed around parts of the city. They are also print-on-demand, so we can fulfill your orders around the world in almost no time!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16519872441a93b8bf-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "View Shop",
+            "button_link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "16519872441a93b8bf-0",
+        "16519872441a93b8bf-1",
+        "16519872441a93b8bf-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ig1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "165198775588e170ca": {
+      "type": "page",
+      "settings": {
+        "page": "derek-mohr",
+        "heading_size": "h2",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 32
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Email Signup",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers. There are coupons and sales announced here as well!<\/p>"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "paragraph",
+        "email-form"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "image-banner",
+    "main",
+    "16519872446761cff0",
+    "165198775588e170ca",
+    "newsletter"
+  ]
+}
