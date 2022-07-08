@@ -15,7 +15,6 @@
         "16533636635d963246-0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/classic-dad-hat-light-blue-right-front-628b0cd1ab127.webp",
         "image_2": "shopify:\/\/shop_images\/enhanced-matte-paper-poster-_in_-18x24-front-629cd8084f36f.jpg",
         "image_overlay_opacity": 40,
         "image_height": "small",
@@ -37,7 +36,7 @@
         "description": "<p>All of the tops, bottoms, and accessories in-between, are themed around parts of the city.<\/p><p>The products are also print-on-demand, so we can fulfill your orders around the world!<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "home-page",
+        "collection": "frontpage",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
@@ -87,7 +86,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/grand-rapids-gr.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -148,7 +146,7 @@
         "1655179506ad92f911-6"
       ],
       "settings": {
-        "product": "skyline-poster",
+        "product": "skyline-poster-1",
         "color_scheme": "background-1",
         "secondary_background": true,
         "hide_variants": false,
@@ -163,7 +161,6 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mens-fitted-t-shirt-light-blue-front-6275ef89be5fd.webp",
             "title": "About GR Branding",
             "text": "<p>Everything you might need to rep Grand Rapids on the top half of your body.<\/p>",
             "link_label": "Learn More",
@@ -173,7 +170,6 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/kiss-cut-stickers-3x3-lifestyle-2-628c5f508847a.webp",
             "title": "Get In Touch",
             "text": "<p>Add an image of a product from your collection in this column.<\/p>",
             "link_label": "Contact Us",
@@ -183,7 +179,6 @@
         "6fad01a0-7a65-463f-af00-f930a96013e4": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/classic-dad-hat-light-blue-front-2-62c3b5b07dc65.jpg",
             "title": "Sustainability",
             "text": "<p>Learn more about what \"dropship\" and \"direct to garment\" really is.<\/p>",
             "link_label": "More on Printful",
