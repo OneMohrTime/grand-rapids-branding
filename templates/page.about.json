@@ -2,19 +2,9 @@
   "sections": {
     "image-banner": {
       "type": "image-banner",
-      "blocks": {
-        "01f3bc49-252c-4520-b12c-3de982ca076e": {
-          "type": "heading",
-          "settings": {
-            "heading": "About Grand Rapids Branding Co",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "01f3bc49-252c-4520-b12c-3de982ca076e"
-      ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/embroidered-patches-light-blue-front-6281bcd636c3c.jpg",
+        "image_2": "shopify:\/\/shop_images\/classic-dad-hat-light-blue-front-62c6f28ed7e60.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
