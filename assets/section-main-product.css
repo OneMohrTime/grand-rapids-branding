@@ -366,7 +366,7 @@ a.product__text {
   .product__info-container {
     max-width: 60rem;
   }
-  
+
   .product__info-container .price--on-sale .price-item--regular {
     font-size: 1.6rem;
   }
@@ -445,6 +445,20 @@ a.product__text {
 
 .product-form__buttons {
   max-width: 44rem;
+}
+
+@media screen and (min-width: 750px) {
+  .product-form__buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .product-form__buttons > * {
+    flex: 0 1 50%;
+    max-width: calc(50% - 1.2rem);
+  }
 }
 
 .product--no-media .product__info-container > modal-opener {
