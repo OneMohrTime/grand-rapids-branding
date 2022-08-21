@@ -295,6 +295,11 @@ body,
   grid-auto-flow: column;
 }
 
+.content-for-layout,
+.content-for-layout .color-background-1 {
+  background-color: #f9f8f2;
+}
+
 .page-margin,
 .shopify-challenge__container {
   margin: 7rem auto;
@@ -529,6 +534,11 @@ table:not([class]) td,
 table:not([class]) th {
   padding: 1em;
   border: 0.1rem solid rgba(var(--color-foreground), 0.2);
+}
+
+.table-responsive.dynamic table {
+  width: 100%;
+  max-width: 100%;
 }
 
 .hidden {
@@ -2114,8 +2124,8 @@ input[type='checkbox'] {
 
 .cart-count-bubble {
   position: absolute;
-  background-color: rgb(var(--color-button));
-  color: rgb(var(--color-button-text));
+  background-color: rgb(var(--color-button-text));
+  color: rgb(var(--color-button));
   height: 1.7rem;
   width: 1.7rem;
   border-radius: 100%;
@@ -2124,7 +2134,7 @@ input[type='checkbox'] {
   align-items: center;
   font-size: 0.9rem;
   bottom: 0.8rem;
-  left: 2.2rem;
+  left: -2.2rem;
   line-height: calc(1 + 0.1 / var(--font-body-scale));
 }
 

@@ -66,6 +66,8 @@
   bottom: 0;
   position: absolute;
   top: 0;
+  border-radius: 4px;
+  box-shadow: var(--popup-shadow-horizontal-offset) var(--popup-shadow-vertical-offset) var(--popup-shadow-blur-radius) rgba(var(--color-shadow), var(--popup-shadow-opacity));
 }
 
 .card .media {
@@ -142,6 +144,7 @@
   object-fit: cover;
   object-position: center center;
   width: 100%;
+  border-radius: 4px;
 }
 
 .card__inner:not(.ratio) > .card__content {
