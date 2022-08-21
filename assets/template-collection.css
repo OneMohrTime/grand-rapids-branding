@@ -11,6 +11,10 @@
   }
 }
 
+.color-background-1 .collection {
+  background-color: #f9f8f2;
+}
+
 .collection .loading-overlay {
   top: 0;
   right: 0;

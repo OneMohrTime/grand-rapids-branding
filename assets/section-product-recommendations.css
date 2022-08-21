@@ -1,5 +1,6 @@
 .product-recommendations {
   display: block;
+  background-color: #f9f8f2;
 }
 
 .product-recommendations:not(.product-recommendations--loaded) {

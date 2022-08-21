@@ -295,6 +295,11 @@ body,
   grid-auto-flow: column;
 }
 
+.content-for-layout,
+.content-for-layout .color-background-1 {
+  background-color: #f9f8f2;
+}
+
 .page-margin,
 .shopify-challenge__container {
   margin: 7rem auto;
