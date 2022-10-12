@@ -15,9 +15,8 @@
         "16533636635d963246-0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/embroidered-patches-light-blue-front-6281bcd636c3c.jpg",
-        "image_2": "shopify:\/\/shop_images\/classic-dad-hat-light-blue-front-62c6f28ed7bc2.jpg",
-        "image_overlay_opacity": 40,
+        "image": "shopify:\/\/shop_images\/facebook-cover.jpg",
+        "image_overlay_opacity": 10,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
@@ -29,15 +28,15 @@
         "show_text_below": false
       }
     },
-    "featured_collection": {
+    "6f4fb0e7-ddbf-4070-b1d5-0f24764f793f": {
       "type": "featured-collection",
       "settings": {
-        "title": "The \"GR\" Calder",
+        "title": "Beer City, USA",
         "heading_size": "h1",
-        "description": "<p>All of the tops, bottoms, and accessories in-between, are themed around parts of the city.<\/p><p>The products are also print-on-demand, so we can fulfill your orders around the world!<\/p>",
+        "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "frontpage",
+        "collection": "beer-city",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
@@ -45,15 +44,15 @@
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
-        "image_ratio": "portrait",
-        "show_secondary_image": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
         "show_vendor": false,
-        "show_rating": true,
+        "show_rating": false,
         "enable_quick_add": false,
         "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 48,
-        "padding_bottom": 0
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "image-with-text-2": {
@@ -157,6 +156,33 @@
         "padding_bottom": 36
       }
     },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "The \"GR\" Calder",
+        "heading_size": "h1",
+        "description": "<p>All of the tops, bottoms, and accessories in-between, are themed around parts of the city.<\/p><p>The products are also print-on-demand, so we can fulfill your orders around the world!<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "frontpage",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 48,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -197,10 +223,10 @@
         "6fad01a0-7a65-463f-af00-f930a96013e4"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "More about Grand Rapids Branding",
+        "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
@@ -250,9 +276,10 @@
   },
   "order": [
     "1653363663076c6e35",
-    "featured_collection",
+    "6f4fb0e7-ddbf-4070-b1d5-0f24764f793f",
     "image-with-text-2",
     "1655179506ae3570b2",
+    "featured_collection",
     "multicolumn",
     "newsletter"
   ]
