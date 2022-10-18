@@ -9,23 +9,35 @@
             "heading": "Grand Rapids Branding Co.",
             "heading_size": "h1"
           }
+        },
+        "909a6ebd-d1e3-4cae-ba2a-825d9c525260": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Beer City Collection",
+            "button_link_1": "shopify:\/\/collections\/beer-city",
+            "button_style_secondary_1": false,
+            "button_label_2": "Prints & Posters",
+            "button_link_2": "shopify:\/\/collections\/prints-posters",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
-        "16533636635d963246-0"
+        "16533636635d963246-0",
+        "909a6ebd-d1e3-4cae-ba2a-825d9c525260"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/facebook-cover.jpg",
         "image_overlay_opacity": 10,
         "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-left",
         "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "accent-2",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
-        "show_text_below": false
+        "show_text_below": true
       }
     },
     "6f4fb0e7-ddbf-4070-b1d5-0f24764f793f": {
