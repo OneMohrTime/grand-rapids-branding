@@ -67,50 +67,6 @@
         "padding_bottom": 36
       }
     },
-    "image-with-text-2": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Grand Rapids",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>All of the tops, bottoms, and accessories in-between, are themed around parts of the city. They are also print-on-demand, so we can fulfill your orders around the world in almost no time!<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop All",
-            "button_link": "shopify:\/\/collections\/all-products"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/ig1.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "1655179506ae3570b2": {
       "type": "featured-product",
       "blocks": {
@@ -159,9 +115,9 @@
         "1655179506ad92f911-6"
       ],
       "settings": {
-        "product": "skyline-poster",
-        "color_scheme": "background-1",
-        "secondary_background": true,
+        "product": "1888-historic-sanford-logo-poster",
+        "color_scheme": "background-2",
+        "secondary_background": false,
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
@@ -193,6 +149,63 @@
         "swipe_on_mobile": true,
         "padding_top": 48,
         "padding_bottom": 0
+      }
+    },
+    "350a7dca-a055-49e9-bb37-dcef3f2aca59": {
+      "type": "featured-product",
+      "blocks": {
+        "template--15594078175420__350a7dca-a055-49e9-bb37-dcef3f2aca59-16702182316a630613-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--15594078175420__350a7dca-a055-49e9-bb37-dcef3f2aca59-16702182316a630613-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "template--15594078175420__350a7dca-a055-49e9-bb37-dcef3f2aca59-16702182316a630613-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--15594078175420__350a7dca-a055-49e9-bb37-dcef3f2aca59-16702182316a630613-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--15594078175420__350a7dca-a055-49e9-bb37-dcef3f2aca59-16702182316a630613-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--15594078175420__350a7dca-a055-49e9-bb37-dcef3f2aca59-16702182316a630613-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        }
+      },
+      "block_order": [
+        "template--15594078175420__350a7dca-a055-49e9-bb37-dcef3f2aca59-16702182316a630613-1",
+        "template--15594078175420__350a7dca-a055-49e9-bb37-dcef3f2aca59-16702182316a630613-2",
+        "template--15594078175420__350a7dca-a055-49e9-bb37-dcef3f2aca59-16702182316a630613-3",
+        "template--15594078175420__350a7dca-a055-49e9-bb37-dcef3f2aca59-16702182316a630613-4",
+        "template--15594078175420__350a7dca-a055-49e9-bb37-dcef3f2aca59-16702182316a630613-5",
+        "template--15594078175420__350a7dca-a055-49e9-bb37-dcef3f2aca59-16702182316a630613-6"
+      ],
+      "settings": {
+        "product": "retro-skyline-poster",
+        "color_scheme": "accent-2",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn": {
@@ -289,9 +302,9 @@
   "order": [
     "1653363663076c6e35",
     "6f4fb0e7-ddbf-4070-b1d5-0f24764f793f",
-    "image-with-text-2",
     "1655179506ae3570b2",
     "featured_collection",
+    "350a7dca-a055-49e9-bb37-dcef3f2aca59",
     "multicolumn",
     "newsletter"
   ]
