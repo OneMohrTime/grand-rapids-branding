@@ -6,8 +6,15 @@
         "16533636635d963246-0": {
           "type": "heading",
           "settings": {
-            "heading": "Grand Rapids Branding Co.",
+            "heading": "Grand Rapids Prints & Apparel",
             "heading_size": "h1"
+          }
+        },
+        "9530f4b5-fcfb-4388-bae1-984ebda422d3": {
+          "type": "text",
+          "settings": {
+            "text": "Bring Grand Rapids vibe to your wardrobe with our eco-friendly apparel and prints. Shop now and show your pride for the city!",
+            "text_style": "body"
           }
         },
         "909a6ebd-d1e3-4cae-ba2a-825d9c525260": {
@@ -24,13 +31,14 @@
       },
       "block_order": [
         "16533636635d963246-0",
+        "9530f4b5-fcfb-4388-bae1-984ebda422d3",
         "909a6ebd-d1e3-4cae-ba2a-825d9c525260"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/facebook-cover.jpg",
         "image_overlay_opacity": 10,
         "image_height": "small",
-        "adapt_height_first_image": true,
+        "adapt_height_first_image": false,
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
@@ -38,6 +46,34 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": true
+      }
+    },
+    "92ebb6d6-34b1-4bb5-a653-4a5d60d33863": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15594078175420__92ebb6d6-34b1-4bb5-a653-4a5d60d33863-16755658620347bfa7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "What is Grand Rapids Branding Co.?",
+            "heading_size": "h2"
+          }
+        },
+        "template--15594078175420__92ebb6d6-34b1-4bb5-a653-4a5d60d33863-16755658620347bfa7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Grand Rapids Branding Co., we are passionate about all things Grand Rapids, Michigan. Our mission is to bring the unique and vibrant culture of Grand Rapids to your wardrobe with our eco-friendly prints and apparel. Established in 2022, we offer a wide range of products that celebrate the city's landmarks, history, and lifestyle. From stunning artwork to comfortable t-shirts, our products allow you to show off your Grand Rapids pride wherever you go.<\/p><p>We understand the importance of sustainability and that's why we are committed to using eco-friendly materials for our products whenever possible. Our products are designed with love and printed with the highest quality, so you can enjoy wearing them for years to come. Most of our products are dropshipped, so you can have peace of mind knowing that we take care of everything from production to shipping.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15594078175420__92ebb6d6-34b1-4bb5-a653-4a5d60d33863-16755658620347bfa7-0",
+        "template--15594078175420__92ebb6d6-34b1-4bb5-a653-4a5d60d33863-16755658620347bfa7-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "6f4fb0e7-ddbf-4070-b1d5-0f24764f793f": {
@@ -301,6 +337,7 @@
   },
   "order": [
     "1653363663076c6e35",
+    "92ebb6d6-34b1-4bb5-a653-4a5d60d33863",
     "6f4fb0e7-ddbf-4070-b1d5-0f24764f793f",
     "1655179506ae3570b2",
     "featured_collection",
